@@ -1,7 +1,8 @@
 # INVENTORY MANAGEMENT SYSTEM
-### Frontend Development using React / Bootstrap
-### Backend Development using Express / Cors / RESTful APIs
-### Database made with MySQL and routed through API endpoints
+
+* Frontend Development using React.js / React Router / Axios / Bootstrap
+* Backend Development using Node.js / Express / CORS / REST APIs
+* Database made with MySQL and routed through API endpoints
 
 ## Run frontend:
 
