@@ -54,23 +54,6 @@ INSERT INTO products (
 ````
 git clone git@github.com:Jematormal91/inventory_management_system.git
 ````
-### Create package.json file
-````
-npm init
-
-name: (react-web-app) 
-version: (1.0.0) 
-description: Node.js REST APIs with Express, Sequelize & MySQL.
-entry point: (index.js) server.js
-test command: 
-git repository: 
-keywords: nodejs, express, sequelize, mysql, rest, api
-author: Jeanelle Torres
-license: (ISC)
-
-Is this ok? (yes) yes
-
-````
 ### Install package dependencies
 ````
 cd backend
