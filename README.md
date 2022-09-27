@@ -10,6 +10,11 @@ AWS Amplify hosted web app can be found [here](https://dev.d1w4qt98db7pyr.amplif
 
 ## Instructions to sample with backend MySQL database endpoint:
 
+### Open MySQL bash
+````
+/usr/local/mysql/bin/mysql -u root -p
+````
+
 ### Create MySQL database
 ``````
 CREATE DATABASE inventory;
