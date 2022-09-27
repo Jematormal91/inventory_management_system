@@ -71,7 +71,7 @@ Is this ok? (yes) yes
 cd backend
 npm i express cors mysql2 --save
 cd frontend
-npm i react react-router axios bootstrap --save
+npm i react react-router react-router-dom axios bootstrap --save
 ````
 ### UPDATE db.config.js file for user account permissions
 
