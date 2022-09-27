@@ -69,7 +69,7 @@ Is this ok? (yes) yes
 ### Install package dependencies
 ````
 cd backend
-npm i express cors sequelize mysql2 --save
+npm i express cors mysql2 --save
 cd frontend
 npm i react react-router axios bootstrap --save
 ````
