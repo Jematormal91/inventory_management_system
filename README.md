@@ -69,6 +69,10 @@ node server.js
 cd react-web-app/frontend
 npm start
 ```
+When running server locally, 
+backend development found in http://localhost:8080 add '/products' endpoint for Object array containing MySQL database data.
+
+frontend development found in http://localhost:8081
 
 
 
