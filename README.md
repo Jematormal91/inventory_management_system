@@ -4,12 +4,12 @@
 ### Database made with MySQL and routed through API endpoints
 
 ## Run frontend:
-````
+
 AWS Amplify hosted web app can be found [here](https://dev.d1w4qt98db7pyr.amplifyapp.com)
-````
+
 ## Instructions to sample with backend MySQL database endpoint:
 
-# Create MySQL database
+### Create MySQL database
 ``````
 CREATE DATABASE inventory;
 
@@ -44,7 +44,7 @@ INSERT INTO products (
         13,
         100138928);
 ```````
-# UPDATE db.config.js file for user account permissions
+### UPDATE db.config.js file for user account permissions
 
 
 open backend/app/config/db.config.js and update with your user password
@@ -57,13 +57,13 @@ module.exports = {
   DB: "inventory"
 };
 ``````
-# Test localhost server 
+### Test localhost server 
 
 ```
 cd react-web-app/backend
 node server.js
 ```
-# Run localhost
+### Run localhost
 
 ```
 cd react-web-app/frontend
