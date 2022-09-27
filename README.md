@@ -45,8 +45,35 @@ INSERT INTO products (
         13,
         100138928);
 ```````
-### UPDATE db.config.js file for user account permissions
+### Clone repository to local
+````
+git clone git@github.com:Jematormal91/inventory_management_system.git
+````
+### Create package.json file
+````
+npm init
 
+name: (react-web-app) 
+version: (1.0.0) 
+description: Node.js REST APIs with Express, Sequelize & MySQL.
+entry point: (index.js) server.js
+test command: 
+git repository: 
+keywords: nodejs, express, sequelize, mysql, rest, api
+author: Jeanelle Torres
+license: (ISC)
+
+Is this ok? (yes) yes
+
+````
+### Install package dependencies
+````
+cd backend
+npm i express cors sequelize mysql2 --save
+cd frontend
+npm i react react-router axios bootstrap --save
+````
+### UPDATE db.config.js file for user account permissions
 
 open backend/app/config/db.config.js and update with your user password
 
