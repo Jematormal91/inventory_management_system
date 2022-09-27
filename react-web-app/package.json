@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "dotenv-cli": "^6.0.0"
+  }
+}
