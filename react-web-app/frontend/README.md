@@ -1,6 +1,6 @@
-# React.js CRUD App with React Router & Axios
+# React.js Inventory Management Web App with React Router & Axios
 
-Build a React.js CRUD Application to consume Web API, display and modify data with Router, Axios & Bootstrap.
+Build a React.js Application to consume Web API, display and modify data with Router, Axios & Bootstrap.
 
 React Inventory Application in that:
 - Each Inventory has a name, quantity, price, and id.
